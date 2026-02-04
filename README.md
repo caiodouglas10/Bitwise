@@ -1,2 +1,2 @@
 # Bitwise
-#### Atividade prática visando mostrar um dos fins práticos do bitwise através de um sistema de etiquetas de uma biblioteca.
+#### Atividade prática do primeiro período visando mostrar um dos fins práticos do bitwise através de um sistema de etiquetas de uma biblioteca.
